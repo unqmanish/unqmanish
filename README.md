@@ -25,5 +25,5 @@
 <br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unqmanish&layout=compact&theme=radical&hide_border=true" alt="unqmanish" /></p>
-<p><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=unqmanish&show_icons=true&hide_border=true&theme=radical" /></p>
+<p><img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=unqmanish&show_icons=true&hide_border=true&theme=radical" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=unqmanish&theme=radical&hide_border=true" alt="unqmanish" /></p>
