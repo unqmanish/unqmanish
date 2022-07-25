@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Python, Web3**
 - 💬 Ask me about **React, Nextjs, Nodejs**
 - 📫 How to reach me **contact@unqmanish.com**
 
